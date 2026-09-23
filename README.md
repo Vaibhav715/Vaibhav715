@@ -71,17 +71,7 @@
 
 ---
 
-### 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vaibhav715/Vaibhav715/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhav715&color=0077b5&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
 <!-- Snake Game Repo View -->
 
 <div align="center">
