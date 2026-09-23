@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 Hi there, I'm Vaibhav Srivastava 👋
-**AI & Machine Learning Engineer • Full-Stack Developer • Cybersecurity Enthusiast**
+**AI & Machine Learning Engineer • Full-Stack Developer **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaibhav715)
