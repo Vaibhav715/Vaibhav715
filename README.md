@@ -65,21 +65,9 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav715&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vaibhav's GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=Vaibhav715&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav715&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vaibhav715&theme=tokyonight&no-frame=true&margin-w=4" alt="Trophies" />
-
-</div>
+![](https://github-readme-stats.shion.dev/api?username=Vaibhav715&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Vaibhav715&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vaibhav715&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
